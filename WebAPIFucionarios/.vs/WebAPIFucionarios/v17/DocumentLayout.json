@@ -9,6 +9,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{C6E80708-0A26-4297-89F2-1295593A0A91}|WebAPIFucionarios\\WebAPIFucionarios.csproj|c:\\users\\windows\\desktop\\web-api-.net-crud\\webapifucionarios\\webapifucionarios\\models\\fucionariomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C6E80708-0A26-4297-89F2-1295593A0A91}|WebAPIFucionarios\\WebAPIFucionarios.csproj|solutionrelative:webapifucionarios\\models\\fucionariomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6E80708-0A26-4297-89F2-1295593A0A91}|WebAPIFucionarios\\WebAPIFucionarios.csproj|c:\\users\\windows\\desktop\\web-api-.net-crud\\webapifucionarios\\webapifucionarios\\enums\\turnoenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6E80708-0A26-4297-89F2-1295593A0A91}|WebAPIFucionarios\\WebAPIFucionarios.csproj|solutionrelative:webapifucionarios\\enums\\turnoenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6E80708-0A26-4297-89F2-1295593A0A91}|WebAPIFucionarios\\WebAPIFucionarios.csproj|c:\\users\\windows\\desktop\\web-api-.net-crud\\webapifucionarios\\webapifucionarios\\enums\\departamentoenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6E80708-0A26-4297-89F2-1295593A0A91}|WebAPIFucionarios\\WebAPIFucionarios.csproj|solutionrelative:webapifucionarios\\enums\\departamentoenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,21 +26,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 389,
-          "SelectedChildIndex": -1,
-          "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            }
-          ]
-        },
-        {
-          "DockedWidth": 11,
           "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
               "$type": "Document",
@@ -42,9 +40,22 @@
               "RelativeDocumentMoniker": "WebAPIFucionarios\\Models\\ServiceResponse.cs",
               "ToolTip": "C:\\Users\\windows\\Desktop\\WEB-API-.NET-CRUD\\WebAPIFucionarios\\WebAPIFucionarios\\Models\\ServiceResponse.cs",
               "RelativeToolTip": "WebAPIFucionarios\\Models\\ServiceResponse.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwAYAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-22T19:26:26.249Z",
+              "WhenOpened": "2024-04-23T15:15:36.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TurnoEnum.cs",
+              "DocumentMoniker": "C:\\Users\\windows\\Desktop\\WEB-API-.NET-CRUD\\WebAPIFucionarios\\WebAPIFucionarios\\Enums\\TurnoEnum.cs",
+              "RelativeDocumentMoniker": "WebAPIFucionarios\\Enums\\TurnoEnum.cs",
+              "ToolTip": "C:\\Users\\windows\\Desktop\\WEB-API-.NET-CRUD\\WebAPIFucionarios\\WebAPIFucionarios\\Enums\\TurnoEnum.cs",
+              "RelativeToolTip": "WebAPIFucionarios\\Enums\\TurnoEnum.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T15:14:28.602Z",
               "EditorCaption": ""
             },
             {
@@ -55,14 +66,33 @@
               "RelativeDocumentMoniker": "WebAPIFucionarios\\Models\\FucionarioModel.cs",
               "ToolTip": "C:\\Users\\windows\\Desktop\\WEB-API-.NET-CRUD\\WebAPIFucionarios\\WebAPIFucionarios\\Models\\FucionarioModel.cs",
               "RelativeToolTip": "WebAPIFucionarios\\Models\\FucionarioModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-22T19:25:52.821Z",
+              "WhenOpened": "2024-04-23T15:13:00.333Z",
               "EditorCaption": ""
             },
             {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DepartamentoEnum.cs",
+              "DocumentMoniker": "C:\\Users\\windows\\Desktop\\WEB-API-.NET-CRUD\\WebAPIFucionarios\\WebAPIFucionarios\\Enums\\DepartamentoEnum.cs",
+              "RelativeDocumentMoniker": "WebAPIFucionarios\\Enums\\DepartamentoEnum.cs",
+              "ToolTip": "C:\\Users\\windows\\Desktop\\WEB-API-.NET-CRUD\\WebAPIFucionarios\\WebAPIFucionarios\\Enums\\DepartamentoEnum.cs",
+              "RelativeToolTip": "WebAPIFucionarios\\Enums\\DepartamentoEnum.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T15:11:36.298Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 11,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             }
           ]
         }

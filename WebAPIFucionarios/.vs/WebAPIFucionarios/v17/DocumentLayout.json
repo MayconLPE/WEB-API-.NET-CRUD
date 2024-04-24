@@ -3,12 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\windows\\Desktop\\WEB-API-.NET-CRUD\\WebAPIFucionarios\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C6E80708-0A26-4297-89F2-1295593A0A91}|WebAPIFucionarios\\WebAPIFucionarios.csproj|c:\\users\\windows\\desktop\\web-api-.net-crud\\webapifucionarios\\webapifucionarios\\models\\serviceresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C6E80708-0A26-4297-89F2-1295593A0A91}|WebAPIFucionarios\\WebAPIFucionarios.csproj|solutionrelative:webapifucionarios\\models\\serviceresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C6E80708-0A26-4297-89F2-1295593A0A91}|WebAPIFucionarios\\WebAPIFucionarios.csproj|c:\\users\\windows\\desktop\\web-api-.net-crud\\webapifucionarios\\webapifucionarios\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C6E80708-0A26-4297-89F2-1295593A0A91}|WebAPIFucionarios\\WebAPIFucionarios.csproj|solutionrelative:webapifucionarios\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C6E80708-0A26-4297-89F2-1295593A0A91}|WebAPIFucionarios\\WebAPIFucionarios.csproj|c:\\users\\windows\\desktop\\web-api-.net-crud\\webapifucionarios\\webapifucionarios\\models\\fucionariomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C6E80708-0A26-4297-89F2-1295593A0A91}|WebAPIFucionarios\\WebAPIFucionarios.csproj|solutionrelative:webapifucionarios\\models\\fucionariomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C6E80708-0A26-4297-89F2-1295593A0A91}|WebAPIFucionarios\\WebAPIFucionarios.csproj|c:\\users\\windows\\desktop\\web-api-.net-crud\\webapifucionarios\\webapifucionarios\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6E80708-0A26-4297-89F2-1295593A0A91}|WebAPIFucionarios\\WebAPIFucionarios.csproj|solutionrelative:webapifucionarios\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\windows\\Desktop\\WEB-API-.NET-CRUD\\WebAPIFucionarios\\WebAPIFucionarios\\Migrations\\20240424152232_CriacaoDoBanco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebAPIFucionarios\\Migrations\\20240424152232_CriacaoDoBanco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6E80708-0A26-4297-89F2-1295593A0A91}|WebAPIFucionarios\\WebAPIFucionarios.csproj|c:\\users\\windows\\desktop\\web-api-.net-crud\\webapifucionarios\\webapifucionarios\\models\\funcionariomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6E80708-0A26-4297-89F2-1295593A0A91}|WebAPIFucionarios\\WebAPIFucionarios.csproj|solutionrelative:webapifucionarios\\models\\funcionariomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6E80708-0A26-4297-89F2-1295593A0A91}|WebAPIFucionarios\\WebAPIFucionarios.csproj|c:\\users\\windows\\desktop\\web-api-.net-crud\\webapifucionarios\\webapifucionarios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6E80708-0A26-4297-89F2-1295593A0A91}|WebAPIFucionarios\\WebAPIFucionarios.csproj|solutionrelative:webapifucionarios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6E80708-0A26-4297-89F2-1295593A0A91}|WebAPIFucionarios\\WebAPIFucionarios.csproj|c:\\users\\windows\\desktop\\web-api-.net-crud\\webapifucionarios\\webapifucionarios\\models\\serviceresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6E80708-0A26-4297-89F2-1295593A0A91}|WebAPIFucionarios\\WebAPIFucionarios.csproj|solutionrelative:webapifucionarios\\models\\serviceresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C6E80708-0A26-4297-89F2-1295593A0A91}|WebAPIFucionarios\\WebAPIFucionarios.csproj|c:\\users\\windows\\desktop\\web-api-.net-crud\\webapifucionarios\\webapifucionarios\\enums\\turnoenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 389,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,20 +50,72 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20240424152232_CriacaoDoBanco.cs",
+              "DocumentMoniker": "C:\\Users\\windows\\Desktop\\WEB-API-.NET-CRUD\\WebAPIFucionarios\\WebAPIFucionarios\\Migrations\\20240424152232_CriacaoDoBanco.cs",
+              "RelativeDocumentMoniker": "WebAPIFucionarios\\Migrations\\20240424152232_CriacaoDoBanco.cs",
+              "ToolTip": "C:\\Users\\windows\\Desktop\\WEB-API-.NET-CRUD\\WebAPIFucionarios\\WebAPIFucionarios\\Migrations\\20240424152232_CriacaoDoBanco.cs",
+              "RelativeToolTip": "WebAPIFucionarios\\Migrations\\20240424152232_CriacaoDoBanco.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T15:22:32.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\windows\\Desktop\\WEB-API-.NET-CRUD\\WebAPIFucionarios\\WebAPIFucionarios\\appsettings.json",
+              "RelativeDocumentMoniker": "WebAPIFucionarios\\appsettings.json",
+              "ToolTip": "C:\\Users\\windows\\Desktop\\WEB-API-.NET-CRUD\\WebAPIFucionarios\\WebAPIFucionarios\\appsettings.json",
+              "RelativeToolTip": "WebAPIFucionarios\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-24T15:04:43.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\windows\\Desktop\\WEB-API-.NET-CRUD\\WebAPIFucionarios\\WebAPIFucionarios\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "WebAPIFucionarios\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\windows\\Desktop\\WEB-API-.NET-CRUD\\WebAPIFucionarios\\WebAPIFucionarios\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "WebAPIFucionarios\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T14:53:29.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\windows\\Desktop\\WEB-API-.NET-CRUD\\WebAPIFucionarios\\WebAPIFucionarios\\Program.cs",
+              "RelativeDocumentMoniker": "WebAPIFucionarios\\Program.cs",
+              "ToolTip": "C:\\Users\\windows\\Desktop\\WEB-API-.NET-CRUD\\WebAPIFucionarios\\WebAPIFucionarios\\Program.cs",
+              "RelativeToolTip": "WebAPIFucionarios\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAlwBEAAABhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T18:39:02.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "ServiceResponse.cs",
               "DocumentMoniker": "C:\\Users\\windows\\Desktop\\WEB-API-.NET-CRUD\\WebAPIFucionarios\\WebAPIFucionarios\\Models\\ServiceResponse.cs",
               "RelativeDocumentMoniker": "WebAPIFucionarios\\Models\\ServiceResponse.cs",
               "ToolTip": "C:\\Users\\windows\\Desktop\\WEB-API-.NET-CRUD\\WebAPIFucionarios\\WebAPIFucionarios\\Models\\ServiceResponse.cs",
               "RelativeToolTip": "WebAPIFucionarios\\Models\\ServiceResponse.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAxwAYAAAAxAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAABQwAYAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-23T15:15:36.761Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "TurnoEnum.cs",
               "DocumentMoniker": "C:\\Users\\windows\\Desktop\\WEB-API-.NET-CRUD\\WebAPIFucionarios\\WebAPIFucionarios\\Enums\\TurnoEnum.cs",
               "RelativeDocumentMoniker": "WebAPIFucionarios\\Enums\\TurnoEnum.cs",
@@ -60,20 +128,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "FucionarioModel.cs",
-              "DocumentMoniker": "C:\\Users\\windows\\Desktop\\WEB-API-.NET-CRUD\\WebAPIFucionarios\\WebAPIFucionarios\\Models\\FucionarioModel.cs",
-              "RelativeDocumentMoniker": "WebAPIFucionarios\\Models\\FucionarioModel.cs",
-              "ToolTip": "C:\\Users\\windows\\Desktop\\WEB-API-.NET-CRUD\\WebAPIFucionarios\\WebAPIFucionarios\\Models\\FucionarioModel.cs",
-              "RelativeToolTip": "WebAPIFucionarios\\Models\\FucionarioModel.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAYAAAA",
+              "DocumentIndex": 3,
+              "Title": "FuncionarioModel.cs",
+              "DocumentMoniker": "C:\\Users\\windows\\Desktop\\WEB-API-.NET-CRUD\\WebAPIFucionarios\\WebAPIFucionarios\\Models\\FuncionarioModel.cs",
+              "RelativeDocumentMoniker": "WebAPIFucionarios\\Models\\FuncionarioModel.cs",
+              "ToolTip": "C:\\Users\\windows\\Desktop\\WEB-API-.NET-CRUD\\WebAPIFucionarios\\WebAPIFucionarios\\Models\\FuncionarioModel.cs",
+              "RelativeToolTip": "WebAPIFucionarios\\Models\\FuncionarioModel.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-23T15:13:00.333Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "DepartamentoEnum.cs",
               "DocumentMoniker": "C:\\Users\\windows\\Desktop\\WEB-API-.NET-CRUD\\WebAPIFucionarios\\WebAPIFucionarios\\Enums\\DepartamentoEnum.cs",
               "RelativeDocumentMoniker": "WebAPIFucionarios\\Enums\\DepartamentoEnum.cs",
@@ -93,6 +161,10 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             }
           ]
         }

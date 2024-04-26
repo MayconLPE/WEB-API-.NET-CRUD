@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "USmXkKG6JLdlmtmvzl4TTPUrCHLb31dCEIueSA+pTGPdUqXJOAlf8IvYAg4fwti9RyqQrkbDdi2tyguEK7xX9A==",
+  "dgSpecHash": "YxiGFcL0xrw0RiEo2xj2zHl9LZ4laTAP0BjKD3FkLcS43PoaUXbcMtEWzxm9J817QwI0grQe7jRmTbse3zRGGA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\windows\\Desktop\\WEB-API-.NET-CRUD\\WebAPIFucionarios\\WebAPIFucionarios\\WebAPIFucionarios.csproj",
+  "projectFilePath": "C:\\Users\\windows\\Desktop\\DEV\\WEB-API-.NET-CRUD\\WebAPIFucionarios\\WebAPIFucionarios\\WebAPIFucionarios.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\windows\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\windows\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

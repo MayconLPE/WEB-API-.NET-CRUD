@@ -4561,11 +4561,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\windows\\Desktop\\WEB-API-.NET-CRUD\\WebAPIFucionarios\\WebAPIFucionarios\\WebAPIFucionarios.csproj",
+      "projectUniqueName": "C:\\Users\\windows\\Desktop\\DEV\\WEB-API-.NET-CRUD\\WebAPIFucionarios\\WebAPIFucionarios\\WebAPIFucionarios.csproj",
       "projectName": "WebAPIFucionarios",
-      "projectPath": "C:\\Users\\windows\\Desktop\\WEB-API-.NET-CRUD\\WebAPIFucionarios\\WebAPIFucionarios\\WebAPIFucionarios.csproj",
+      "projectPath": "C:\\Users\\windows\\Desktop\\DEV\\WEB-API-.NET-CRUD\\WebAPIFucionarios\\WebAPIFucionarios\\WebAPIFucionarios.csproj",
       "packagesPath": "C:\\Users\\windows\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\windows\\Desktop\\WEB-API-.NET-CRUD\\WebAPIFucionarios\\WebAPIFucionarios\\obj\\",
+      "outputPath": "C:\\Users\\windows\\Desktop\\DEV\\WEB-API-.NET-CRUD\\WebAPIFucionarios\\WebAPIFucionarios\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\windows\\AppData\\Roaming\\NuGet\\NuGet.Config",

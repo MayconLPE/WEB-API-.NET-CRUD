@@ -12,6 +12,7 @@ namespace WebAPIFucionarios
 
             // Add services to the container.
             builder.Services.AddAuthorization();
+            builder.Services.AddControllers();
 
             builder.Services.AddDbContext<ApplicationDbContext>(options =>
             {
@@ -31,16 +32,12 @@ namespace WebAPIFucionarios
                 app.UseSwaggerUI();
             }
 
+            app.UseCors("funcionariosApp");
             app.UseHttpsRedirection();
 
             app.UseAuthorization();
 
-            var summaries = new[]
-            {
-                "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
-            };
-
-           
+            app.MapControllers();
 
             app.Run();
         }

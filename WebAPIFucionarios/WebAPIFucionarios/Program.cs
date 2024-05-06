@@ -1,6 +1,7 @@
 
 using Microsoft.EntityFrameworkCore;
 using WebAPIFucionarios.Data;
+using WebAPIFucionarios.Service.FuncionarioService;
 
 namespace WebAPIFucionarios
 {
@@ -22,6 +23,8 @@ namespace WebAPIFucionarios
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
+            // ligar interface com o banco
+            builder.Services.AddScoped<IFuncionarioInterface, FuncionarioService>();
 
             var app = builder.Build();
 
